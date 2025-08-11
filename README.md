@@ -5,15 +5,11 @@ Accurate electricity demand forecasting is critical for efficient resource plann
 ## Objective 
 The objective is to build and evaluate forecasting models that predict future average hourly electricity demand based on past consumption, temperature, and derived lagged features. The project compares:
 
-- ARIMA — a classical statistical model suited for stationary time series
-- Random Forest Regression — a tree-based ensemble method using engineered features
-- LSTM — a deep learning model capable of capturing complex temporal dependencies
+- ARIMA - a classical statistical model suited for stationary time series
+- Random Forest Regression - a tree-based ensemble method using engineered features
+- LSTM - a deep learning model capable of capturing complex temporal dependencies
 
 Following model comparison, the best-performing model is deployed as an interactive web application for real-time predictions.
-
-
-
-<img src="sample images/sample1.png" alt="Sample 1" width="600"/>
 
 
 ##  Data and Feature Engineering

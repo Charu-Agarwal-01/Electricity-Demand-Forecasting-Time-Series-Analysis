@@ -58,7 +58,7 @@ Random Forest achieved the best performance across all metrics, demonstrating ro
 Curious to see the **complete breakdown** of the model pipeline, Exploratory data analysis, visual results, and insights?
  I’ve documented everything in a blog post with visuals and intuition explained - perfect for beginners and ML enthusiasts!
 
-📬 **Check out my full blog here**:  [![Read on Medium](https://img.shields.io/badge/MEDIUM-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agarwalcharu2001/harnessing-u-net-transfer-learning-for-satellite-image-segmentation-9be693ac314a)
+📬 **Check out my full blog here**:  [![Read on Medium](https://img.shields.io/badge/MEDIUM-Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@agarwalcharu2001/from-data-to-deployment-energy-demand-forecasting-made-simple-d8c889bbf267)
 
 
 

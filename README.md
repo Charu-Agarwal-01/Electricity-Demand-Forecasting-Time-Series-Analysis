@@ -19,6 +19,12 @@ Following model comparison, the best-performing model is deployed as an interact
 - Included calendar features such as month
 - Applied feature selection using Random Forest feature importances to reduce overfitting and improve model interpretability.
 
+  ## Smoothing techniques
+- Simple Moving Average
+- Weighted Moving Average
+- Exponential Moving Average
+- Exponential Smoothing
+
 
 ## Models and Training
 - **ARIMA**: Used auto_arima which automates differencing, identification of AR and MA terms and seasonal components.

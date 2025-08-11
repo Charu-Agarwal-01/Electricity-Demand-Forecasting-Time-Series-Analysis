@@ -48,11 +48,7 @@ Random Forest achieved the best performance across all metrics, demonstrating ro
 
 
 ## Deployment
-<img src="prediction_images/pred_1.png" alt="pred_1" width="800"/>
-
-<img src="prediction_images/pred_2.png" alt="pred_2" width="800"/>
-
-<img src="prediction_images/pred_3.png" alt="pred_3" width="800"/>
+<img src="Deployment/deployment.png" alt="pred_1" width="800"/>
 
 ## Dive Deeper into the Project  
 Curious to see the **complete breakdown** of the model pipeline, Exploratory data analysis, visual results, and insights?

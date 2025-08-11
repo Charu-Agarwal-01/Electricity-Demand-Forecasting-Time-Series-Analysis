@@ -22,8 +22,8 @@ Following model comparison, the best-performing model is deployed as an interact
 
 ## Models and Training
 - **ARIMA**: Used auto_arima which automates differencing, identification of AR and MA terms and seasonal components.
-- **LSTM**: Built a sequential model with two LSTM layers, LeakyReLU activations, and dropout to prevent overfitting; input sequences formed via sliding window of length 12
-- **Random Forest**: Trained on lagged features, temperature, and rolling statistics; hyperparameter tuning done using GridSearchCV with time series split cross-validation
+- **LSTM**: Built a sequential model with two LSTM layers, LeakyReLU activations, and dropout to prevent overfitting; input sequences formed via sliding window of length 12.
+- **Random Forest**: Trained on lagged features, temperature, and rolling statistics; hyperparameter tuning done using GridSearchCV with time series split cross-validation.
 
 ## Model Evaluation
 Models were evaluated using:
@@ -38,7 +38,7 @@ Models were evaluated using:
 |--------------------|------------------|-----------------|---------------|
 | **ARIMA model**    |   399.361793     |   258.673905    |   4.096961    | 
 | **Random Forest**  |   190.023463     |   157.172439    |   2.520076    | 
-| **LSTM model**	   |   382.603194	    |   248.815227    |	  4.032997    |
+| **LSTM model**	    |   382.603194	    |   248.815227    |	  4.032997    |
 
 Random Forest achieved the best performance across all metrics, demonstrating robust generalization and lower forecast errors.
 

@@ -25,6 +25,8 @@ Following model comparison, the best-performing model is deployed as an interact
 - Exponential Moving Average
 - Exponential Smoothing
 
+  <img src="Deployment/smoothing.png" alt="pred_1" width="800"/>
+
 
 ## Models and Training
 - **ARIMA**: Used auto_arima which automates differencing, identification of AR and MA terms and seasonal components.
